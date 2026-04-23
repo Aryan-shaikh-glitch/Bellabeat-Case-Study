@@ -57,7 +57,7 @@ a women's health and wellness tech company.
 
 ### Key Insights & Recommendations
 
-![Insights & Recommendations](page3_insights_recommendations)
+![Insights & Recommendations](page3_insights_recommendations.png)
 
 
 ## Files
