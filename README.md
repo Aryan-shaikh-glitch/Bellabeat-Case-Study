@@ -47,7 +47,18 @@ a women's health and wellness tech company.
    activity days (Sunday & Friday)
 
 ## Dashboard Preview
-(Screenshot of Power BI dashboard)
+### Activity Overview
+
+![Activity OVerview](page1_activity_overview.png)
+
+### Sleep & Wellness
+
+![Sleep & Wellness](page2_sleep_wellness.png)
+
+### Key Insights & Recommendations
+
+![Insights & Recommendations](page3_insights_recommendations)
+
 
 ## Files
 - `bellabeat_queries.sql` — All SQL queries (Exploration, Cleaning, Analysis)
